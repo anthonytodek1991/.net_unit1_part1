@@ -1,0 +1,11 @@
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/bin/Debug/netcoreapp2.1/Lab_1_Part_1.deps.json
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/bin/Debug/netcoreapp2.1/Lab_1_Part_1.runtimeconfig.json
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/bin/Debug/netcoreapp2.1/Lab_1_Part_1.runtimeconfig.dev.json
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/bin/Debug/netcoreapp2.1/Lab_1_Part_1.dll
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/bin/Debug/netcoreapp2.1/Lab_1_Part_1.pdb
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.csprojAssemblyReference.cache
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.csproj.CoreCompileInputs.cache
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.AssemblyInfoInputs.cache
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.AssemblyInfo.cs
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.dll
+/Users/tonytodek/Projects/Lab_1_Part_1/Lab_1_Part_1/obj/Debug/netcoreapp2.1/Lab_1_Part_1.pdb
